@@ -1,0 +1,5 @@
+Politique,Cout_Holding,Cout_Rupture,Cout_Total,Fill_Rate_%,Economie_%
+"Baseline (s,Q)",1200920,326,1201246,99.9,0.0
+MEIO 90%,1210064,600,1210664,99.8,-0.8
+MEIO 95%,1216903,540,1217443,99.8,-1.3
+MEIO 99%,1228787,486,1229273,99.8,-2.3
